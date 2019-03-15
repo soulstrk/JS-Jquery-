@@ -1,0 +1,18 @@
+{
+    {
+        "name" : "crong",
+        "favorites" : ["golf","facebook"]
+    },
+    {
+        "name" : "jk",
+        "favorites" : ["golf","facebook"]
+    },
+    {
+        "name" : "honux",
+        "favorites" : ["golf","facebook"]
+    },
+    {
+        "name" : "pobi",
+        "favorites" : ["golf","facebook"]
+    },
+}
